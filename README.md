@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayyans-playground
 - 👀 I’m interested in Arduino and Python
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Java
 - 💞️ I’m looking to collaborate on projects that could be utilised in the health care sector
 - 📫 How to reach me rayyansins@gmail.com
 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rayyans-playground
-- 👀 I’m interested in Arduino and Python
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on projects that could be utilised in the health care sector
-- 📫 How to reach me rayyansins@gmail.com
+- 👀 I’m interested in microcontrollers and web development
+- 🌱 I’m currently learning Typescript
+- 💞️ I'm looking to collaborate on web projects relating to Astro and Cloudflare
+- 📫 How to reach me rayyanchilungo2@gmail.com
 
 <!---
 rayyans-playground/rayyans-playground is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
